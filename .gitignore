@@ -1,0 +1,11 @@
+/build
+/dist
+/Peertalk.egg-info
+/peertalk/__pycache__
+/peertalk.build
+/peertalk.spec
+/python37.dll
+/__main__.spec
+/Peertalk.exe
+*.pyo
+/peertable.build

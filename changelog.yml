@@ -1,0 +1,26 @@
+"vtrack_version": "0.1.4"
+"software_name": Peertalk
+"software_tags": ['peer-to-peer', 'p2p', 'chat', 'talk']
+"versions":
+    -   name: "0.1.0"
+        changes:
+            - Adopted the VTrack version description format.
+            - Standardized format.
+            - Initial commit.
+            
+    -   name: "0.1.1"
+        changes:
+            - Squashed bugs.
+            
+    -   name: "0.1.2"
+        changes:
+            - Squashed more bugs.
+            - Removed unnecessary ipgetter dependency.
+            
+    -   name: "0.1.3"
+        changes:
+            - Coming closer from a working version...
+            
+    -   name: "0.1.4"
+        changes:
+            - Removed numpy dependency.
